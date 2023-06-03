@@ -1,0 +1,4 @@
+﻿Карта map
+Спасибо thanks
+Дом house
+Сообщение message
